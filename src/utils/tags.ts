@@ -1,0 +1,10 @@
+export const ButtonOpacity = "button";
+export const Paragraph = "p";
+export const Heading1 = "h1";
+export const Heading2 = "h2";
+export const Heading3 = "h3";
+export const Heading4 = "h4";
+export const Heading5 = "h5";
+export const Img = "img";
+export const Wrapper = "div";
+export const InputField = "input";
